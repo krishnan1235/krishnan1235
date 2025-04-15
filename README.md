@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Full-stack Developement and Machine Learning  
   
 
-- 💬 Ask me about I'm a passionate software developer with strong problem-solving skills and a deep interest in building scalable, efficient, and user-friendly applications. I’ve solved 210+ problems on LeetCode, demonstrating my expertise in data structures and algorithms.
+- 💬 Ask me about I'm a passionate software developer with strong problem-solving skills and a deep interest in building scalable, efficient, and user-friendly applications. I’ve solved 280+ problems on LeetCode, demonstrating my expertise in data structures and algorithms.
 
   
   
